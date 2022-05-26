@@ -30,5 +30,8 @@ while i<9 :
 
 else:
     print("game over")
+    print("thank u for playing")
+ 
+    
 
 
